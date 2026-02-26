@@ -1,2 +1,2 @@
 # BlinkitDashboard
-Using PowerBi and Exdcell 
+Using PowerBi and Excell 
